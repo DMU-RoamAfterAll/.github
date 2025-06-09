@@ -1,7 +1,6 @@
 # 👣 Roam: After All
+![타이틀 이미지](Roam_title.png?raw=true)
 > 동적 세계 모델링을 통한 걸음 수 기반 몰입형 스토리텔링
-<br/>
-![타이틀 이미지](profile/Roam_title.png?raw=true)
 <br/>
 2025년 동양미래대학교 컴퓨터소프트웨어공학과 - 팀 동방야작빌런(CNWV) 졸업작품
 <br/>
